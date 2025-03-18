@@ -3,3 +3,5 @@
 - Our team advanced to the competition finals, ranking among the top 3 teams for Question 4: A Long-Short Portfolio Strategy that Accurately Reflects Stock Selection Skill.
 - We were the only student team in our question, as the competition consisted of students and practitioners alike.
 - Relevant write-ups, including results, are located in the presentations folder. The strategy itself is defined in cornerRank.py.
+
+![image](https://github.com/user-attachments/assets/5f410226-f06f-4891-9342-a1cd38cdbeb4)
